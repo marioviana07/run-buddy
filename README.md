@@ -12,3 +12,5 @@ https://marioviana07.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Run Buddy]
+
+### ©️2019 Run Buddy, Inc
